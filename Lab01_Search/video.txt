@@ -1,0 +1,34 @@
+Test case 1:
++ BFS: https://drive.google.com/file/d/1YmH7IXV_t790PAP6ek8H2FQH1z-jpvyv/view?usp=drive_link
++ DFS: https://drive.google.com/file/d/1hBtNa_WCZxp1hZlWHOaUpBY_twR7Ym3h/view?usp=drive_link
++ UCS:https://drive.google.com/file/d/1P1ydVEuOBErvUKlB-W0k8jtJC9O99cZq/view?usp=drive_link
++ GREEDY:https://drive.google.com/file/d/15dDHOOo6H1ZGLweXJ5MLy2rNPDO-MigO/view?usp=drive_link
++ A*: https://drive.google.com/file/d/1Onm8STkqQppNBCuQs2obmmcQrL5XUAmA/view?usp=drive_link
+
+Test case 2:
++ BFS: https://drive.google.com/file/d/1qLhbhu2x6PKAOD3HZBrfntp2x02KF_RZ/view?usp=drive_link
++ DFS: https://drive.google.com/file/d/1IBCreRB00nkJS7sFZJl2qBP9qN4Rjlwn/view?usp=drive_link
++ UCS:https://drive.google.com/file/d/1bCdko5c_2K_1TDsM1HAZxr_78j-5HkWO/view?usp=drive_link
++ GREEDY: https://drive.google.com/file/d/1lzeEQJ-_cqntyDk20iscXpy6pXsi40AR/view?usp=drive_link
++ A*: https://drive.google.com/file/d/1_C3G6qGLEgNVpxpSx3AW_GkUKdj47FRR/view?usp=drive_link
+
+Test case 3:
++ BFS: https://drive.google.com/file/d/1TJKGVzr0VYyFtVjBIuo49OCWuBeaZ4KG/view?usp=drive_link
++ DFS: https://drive.google.com/file/d/1eLGBKcz78_BVbx8fIkBw4aJ8x1BMArRw/view?usp=drive_link
++ UCS: https://drive.google.com/file/d/1VftqOUrVrVIkwqsFKEIfng8OnD3G7pgB/view?usp=drive_link
++ GREEDY: https://drive.google.com/file/d/1mocTCQENpliu00I5-hNd8GBI_wvwHy_t/view?usp=drive_link
++ A*: https://drive.google.com/file/d/15K80kFd0f4er9DwApJhBhhJc1BoauIgg/view?usp=drive_link
+
+Test case 4:
++ BFS: https://drive.google.com/file/d/1cbj0B8alu_7Yc_LvJ2X39YyTmMJRgk23/view?usp=drive_link
++ DFS: https://drive.google.com/file/d/1FLcI46FUM6-Mws_sdCh_cVuqQzmyESXD/view?usp=drive_link
++ UCS: https://drive.google.com/file/d/1zzKXqBa_bdYTQsfsu5wsQSAWNwdGF9G1/view?usp=drive_link
++ GREEDY: https://drive.google.com/file/d/10Q9cHyKTF0RyDaAxSU0vkn4TLVMqPgMz/view?usp=drive_link
++ A*: https://drive.google.com/file/d/1vM9r9KZhglZu5VHmbEuLlEyiDzj_AZUb/view?usp=drive_link
+
+Test case 5:
++ BFS: https://drive.google.com/file/d/1wu4_07-fyiahUe7iLlVt3DMfrJTUhxXG/view?usp=drive_link
++ DFS: https://drive.google.com/file/d/126aqJAoXLXpgVdMC1R4K2P4D-5kU84Pw/view?usp=drive_link
++ UCS:https://drive.google.com/file/d/1Q_FQ2EkYUO5dTcUGTZz9jgV3hsza-QDB/view?usp=drive_link
++ GREEDY: https://drive.google.com/file/d/11jTo_Fap8IhNi7XBHHvXGxFe5EtRQW_9/view?usp=drive_link
++ A*: https://drive.google.com/file/d/1n1A-WwifW7zpLvfVTOwpCN53nqbrvARw/view?usp=drive_link
