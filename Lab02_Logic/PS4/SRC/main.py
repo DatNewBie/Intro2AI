@@ -27,11 +27,14 @@ class solve:
     
     @staticmethod
     def standard_clause(clause: list):
-        return sorted(list(set(deepcopy(clause))), key=lambda x: x[-1])
+        temp = deepcopy(clause)
+        temp = set(temp)
+
+        return sorted(temp, key=lambda literal: literal[-1])
     
     @staticmethod
-    def is_complentary_literals(literal_1: str, literal_2: str):
-        return len(literal_1) != len(literal_2) and literal_1[-1] == literal_2[-1]
+    def is_complentary_literals(literal1: str, literal2: str):
+        return len(literal1) != len(literal2) and literal1[-1] == literal2[-1]
 
     def is_valid_clause(self, clause):
         for i in range(len(clause) - 1):
@@ -101,6 +104,7 @@ class solve:
         else:
             f.write('NO\n')
         f.close()
+
 
 def main():
     ans = solve()
